@@ -31,20 +31,20 @@ This project was developed as part of my **AI Automation Engineering** learning 
 
 # ✨ Features
 
-- 🌦️ Live Weather Information
-- 💱 Live Currency Exchange Rates
-- ₿ Live Cryptocurrency Prices
-- 🤖 AI-Powered Explanations using Ollama (Llama 3.2)
-- 🗄️ Persistent Data Storage using SQLite
-- 📄 JSON Parsing & Processing
-- 📝 Store User Requests
-- 📥 Store Raw API Responses
-- 🧠 Store AI Generated Outputs
-- 🔍 Search Stored Records
-- ✏️ Update Existing Records
-- 🗑️ Delete Records
-- 📊 View Complete Automation History
-- ⚡ Modular Project Architecture
+-  Live Weather Information
+-  Live Currency Exchange Rates
+-  Live Cryptocurrency Prices
+-  AI-Powered Explanations using Ollama (Llama 3.2)
+-  Persistent Data Storage using SQLite
+-  JSON Parsing & Processing
+-  Store User Requests
+-  Store Raw API Responses
+-  Store AI Generated Outputs
+-  Search Stored Records
+-  Update Existing Records
+-  Delete Records
+-  View Complete Automation History
+-  Modular Project Architecture
 
 ---
 
